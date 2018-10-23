@@ -25,7 +25,7 @@
 		window.addEventListener('load', function() {
 			window.setTimeout(function() {
 				$body.classList.remove('is-preload');
-			}, 100);
+			}, 0);
 		});
 
 	// Slideshow Background.
